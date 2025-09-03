@@ -1,24 +1,7 @@
 # 🎮 PBL - Tic Tac Toe (Prototype)
 
-This is a **prototype Tic-Tac-Toe game** built as part of our **Cloud Computing PBL project**.  
-The initial scaffold (basic layout, Node.js + Socket.io setup) was generated with the help of AI tools.  
-Our team is extending and improving it step by step to add more features, deploy it, and demonstrate concepts of **cloud-based multiplayer gaming**.  
-
----
-
-## 📂 Project Structure
-
-
-tic-tac-toe/
-│
-├── public/ # All frontend files (served by backend)
-│ ├── index.html # Game UI (board layout, player info)
-│ ├── style.css # Styling (board, X/O, layout)
-│ └── script.js # Client logic (connect to server, handle moves)
-│
-├── server.js # Backend: Node.js + Express + Socket.io
-└── package.json # Project metadata (npm init will generate this)
-
+This project was made using AI and is only for our reference on how to proceed with the final version.
+We have not built anything ourselves yet — this just serves a prototype purpose.
 
 
 ---
